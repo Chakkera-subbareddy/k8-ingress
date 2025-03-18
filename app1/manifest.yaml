@@ -53,7 +53,7 @@ spec:
     spec:
       containers:
       - name: app1
-        image: joindevops/app1:1.0.0
+        image: subbadocker496/app1:1.0.0
         ports:
         - containerPort: 80
 ---
